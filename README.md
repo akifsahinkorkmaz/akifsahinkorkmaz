@@ -1,4 +1,10 @@
-- 👋 Hi, I’m @akifsahinkorkmaz
+```bash
+~$ whoami
+```
+Hi, my name is Akif Sahin Korkmaz. 
+
+
+
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
