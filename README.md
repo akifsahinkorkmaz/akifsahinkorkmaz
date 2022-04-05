@@ -1,7 +1,14 @@
+ 
 ```bash
 ~$ whoami
 ```
+
 Hi, my name is Akif Sahin Korkmaz. 
+
+
+```bash
+~$ stat akif-sahin-korkmaz 
+```
 
 
 
