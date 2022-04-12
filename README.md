@@ -2,7 +2,6 @@
 ## Full Stack Web Developer
 
 
----
 ```bash
 ~$ whoami
 ```
@@ -14,11 +13,6 @@ Also struct with computer vision and efficient searching algorithms. I am passio
 
 I believe I am really good at problem solving.    
 
-
-
----
-<br>
-<br>
 
 
 ```bash
