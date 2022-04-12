@@ -1,8 +1,6 @@
 # AKIF <br> SAHIN <br> KORKMAZ 
 ## Full Stack Web Developer
 
-<br>
-<br>
 
 ---
 ```bash
