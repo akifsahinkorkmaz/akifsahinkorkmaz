@@ -52,6 +52,18 @@ My interest in programming started in high-school and, I have been dealing with 
 | Django  | ⭐⭐⭐⭐⭐  |
 | Flask  | ⭐⭐  |
 
+# Other
+
+| Stack  | Experience |
+| ------------- | -------------: |
+| <strong>RDBS</strong>  | ⭐⭐⭐⭐⭐ |
+| SQL  | ⭐⭐⭐⭐  |
+| TypeORM / Sequelize | ⭐⭐⭐⭐⭐  |
+| DjangoORM | ⭐⭐⭐⭐⭐  |
+| ----- | ----- |
+| <strong> NonRDBS </strong> | ⭐⭐⭐⭐⭐ |
+| MongoDB / Mongoose  | ⭐⭐⭐⭐⭐  |
+
 # Data Science / ML / Automation
 
 | Stack  | Experience |
@@ -68,16 +80,3 @@ My interest in programming started in high-school and, I have been dealing with 
 | PyTorch  | ⭐⭐  |
 | TensorFlow  | ⭐⭐  |
 | Image manipulation (PIL etc.) | ⭐⭐⭐⭐  |
-
-
-# Other
-
-| Stack  | Experience |
-| ------------- | -------------: |
-| <strong>RDBS</strong>  | ⭐⭐⭐⭐⭐ |
-| SQL  | ⭐⭐⭐⭐  |
-| TypeORM / Sequelize | ⭐⭐⭐⭐⭐  |
-| DjangoORM | ⭐⭐⭐⭐⭐  |
-| ----- | ----- |
-| <strong> NonRDBS </strong> | ⭐⭐⭐⭐⭐ |
-| MongoDB  | ⭐⭐⭐⭐⭐  |
