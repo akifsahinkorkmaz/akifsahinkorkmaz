@@ -19,7 +19,7 @@ My interest in programming started in high-school and, I have been dealing with 
 ~$ stat akifsahinkorkmaz
 ```
 
-# Frontend
+### Frontend
 
 | Stack  | Experience |
 | ------------- | -------------: |
@@ -40,7 +40,7 @@ My interest in programming started in high-school and, I have been dealing with 
 
 
 
-# Backend
+### Backend
 
 | Stack  | Experience |
 | ------------- | -------------: |
@@ -52,7 +52,7 @@ My interest in programming started in high-school and, I have been dealing with 
 | Django  | ⭐⭐⭐⭐⭐  |
 | Flask  | ⭐⭐  |
 
-# Other
+### Other
 
 | Stack  | Experience |
 | ------------- | -------------: |
@@ -64,7 +64,7 @@ My interest in programming started in high-school and, I have been dealing with 
 | <strong> NonRDBS </strong> | ⭐⭐⭐⭐⭐ |
 | MongoDB / Mongoose  | ⭐⭐⭐⭐⭐  |
 
-# Data Science / ML / Automation
+### Data Science / ML / Automation
 
 | Stack  | Experience |
 | ------------- | -------------: |
@@ -80,3 +80,14 @@ My interest in programming started in high-school and, I have been dealing with 
 | PyTorch  | ⭐⭐  |
 | TensorFlow  | ⭐⭐  |
 | Image manipulation (PIL etc.) | ⭐⭐⭐⭐  |
+
+
+## My CV
+
+```bash
+~$ cat /akifsahinkorkmaz/CV
+```
+
+<img src="./AKIF SAHIN KORKMAZ CV.png"></img>
+
+<a href="./AKIF SAHIN KORKMAZ CV.pdf" download>Download CV</a>
