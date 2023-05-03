@@ -86,7 +86,7 @@ My interest in programming started in high-school and, I have professional work 
 | Image manipulation (PIL etc.) | ⭐⭐⭐⭐  |
 
 
-## My CV
+## Social
 
 ```bash
 ~$ cat /akifsahinkorkmaz/linkedin
