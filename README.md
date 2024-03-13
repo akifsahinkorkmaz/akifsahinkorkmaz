@@ -8,10 +8,10 @@
 
 Hi, my name is Akif Sahin Korkmaz. 
 
-I am a software developer. Interested in full stack web development with experience using React, Svelte, Angular, ExpressJs, NestJS, Django, DRF and Flask. 
+I am a software developer. Interested in full stack web development with experience using React, Svelte, Angular, ExpressJs, Fastify, NestJS, Django, DRF, Flask and Fiber. 
 Also fascinated by computer vision and efficient searching algorithms. I am passionate about programming. I have strong and steady incentives to always achive better and always do my best because I love what I do, whether it is a nice looking website with an enriched user experience, a solid backend or any type of application. 
 
-My interest in programming started in high-school and, I have professional work experience in this field since 2020. During this 3 years, I have employed my programming skills in both personal and work projects. I can adapt quickly and work well with professionals from other disciplines. I belive learning is a lifelong process which should never stop. Therefore, I am more than eager to learn new technologies and new skills in every chance i will get.
+My interest in programming started in high-school and, I have professional work experience in this field since late 2019. During this 4+ years, I have employed my programming skills in both personal and work projects. I can adapt quickly and work well with professionals from other disciplines. I belive learning is a lifelong process which should never stop. Therefore, I am more than eager to learn new technologies and new skills in every chance i will get.
 
 ## My Skills
 
@@ -46,12 +46,17 @@ My interest in programming started in high-school and, I have professional work 
 | ------------- | -------------: |
 | <strong>JavaScript / Typescript </strong>  | ⭐⭐⭐⭐⭐ |
 | ExpressJs  | ⭐⭐⭐⭐⭐  |
+| Fastify  | ⭐⭐⭐⭐⭐  |
 | NestJS  | ⭐⭐⭐⭐⭐  |
 | ----- | ----- |
 | <strong> Python </strong> | ⭐⭐⭐⭐⭐ |
 | Django  | ⭐⭐⭐⭐⭐  |
 | Flask  | ⭐⭐  |
 | FastAPI  | ⭐⭐  |
+| ----- | ----- |
+| <strong> Go Lang </strong> | ⭐⭐⭐⭐⭐ |
+| Fiber  | ⭐⭐⭐⭐  |
+| Gin  | ⭐⭐⭐⭐  |
 
 ### Other
 
@@ -60,6 +65,7 @@ My interest in programming started in high-school and, I have professional work 
 | <strong>RDBS</strong>  | ⭐⭐⭐⭐⭐ |
 | PostgreSQL / MySQL | ⭐⭐⭐⭐⭐  |
 | TypeORM / Sequelize | ⭐⭐⭐⭐⭐  |
+| Prisma | ⭐⭐⭐⭐⭐  |
 | DjangoORM | ⭐⭐⭐⭐⭐  |
 | ----- | ----- |
 | <strong> NonRDBS </strong> | ⭐⭐⭐⭐⭐ |
